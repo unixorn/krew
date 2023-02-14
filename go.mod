@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/fatih/color v1.7.0
-	github.com/gogo/protobuf v1.2.1 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/go-cmp v0.3.0
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/kylelemons/godebug v1.1.0 // indirect
@@ -14,8 +14,6 @@ require (
 	github.com/sahilm/fuzzy v0.0.5
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/pflag v1.0.3
-	golang.org/x/net v0.0.0-20190628185345-da137c7871d7 // indirect
-	golang.org/x/sys v0.0.0-20190712062909-fae7ac547cb7 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	k8s.io/apimachinery v0.0.0-20190717022731-0bb8574e0887
 	k8s.io/client-go v7.0.0+incompatible
